@@ -1,0 +1,10 @@
+[package]
+name = "pot_philosophical"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "pot_philosophical"
+path = "src/lib.rs"
+
+[dependencies]
